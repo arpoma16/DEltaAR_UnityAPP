@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 1d82eff9bcea11b48a1f15bcf284d98f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Al tube (square) 1 SQ X.028 WALL(2)[10]
+    100002: Al tube (square) 1 SQ X.028 WALL(2)[11]
+    100004: Al tube (square) 1 SQ X.028 WALL(2)[12]
+    100006: Al tube (square) 1 SQ X.028 WALL(2)[1]
+    100008: Al tube (square) 1 SQ X.028 WALL(2)[4]
+    100010: Al tube (square) 1 SQ X.028 WALL(2)[5]
+    100012: Al tube (square) 1 SQ X.028 WALL(2)[6]
+    100014: Al tube (square) 1 SQ X.028 WALL(2)[9]
+    100016: Bore
+    100018: CAD-BeDelta 1
+    100020: Chamfer1
+    100022: Chamfer1 1
+    100024: Copia (2) de Copia de servo-sin-sujecion^CAD-BeDelta
+    100026: Copia (3) de Copia de servo-sin-sujecion^CAD-BeDelta
+    100028: Copia de -MR623ZZ-assem^Copia de 4to-eje - copia_CAD-BeDelta
+    100030: Copia de 1^Copia de 4to-eje - copia_CAD-BeDelta
+    100032: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    100034: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    100036: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    100038: Copia de 1_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100040: Copia de 2^CAD-BeDelta
+    100042: Copia de 4^CAD-BeDelta
+    100044: Copia de 4^CAD-BeDelta 1
+    100046: Copia de 4_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100048: Copia de 4_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    100050: Copia de 4to-eje - copia^CAD-BeDelta
+    100052: Copia de 5^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100054: Copia de 5^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    100056: Copia de acople1^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100058: Copia de acople1^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100060: Copia de acople1^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    100062: Copia de acople2^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100064: Copia de acople2^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100066: Copia de acople2^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    100068: Copia de base_inferior^CAD-BeDelta
+    100070: Copia de base_superior^CAD-BeDelta
+    100072: Copia de Bincha^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100074: Copia de Bincha^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100076: Copia de Bincha^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    100078: Copia de caja_inferior^CAD-BeDelta
+    100080: Copia de Copia de BrazoSuperior^CAD-BeDelta
+    100082: Copia de Copia de BrazoSuperior^CAD-BeDelta 1
+    100084: Copia de Copia de BrazoSuperior^CAD-BeDelta 2
+    100086: Copia de Copia de Copia de Copia de Pieza3^Copia de gripper_Copia de 1_Copia
+      de 4to-eje - copia_CAD-BeDelta
+    100088: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    100090: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      1
+    100092: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      2
+    100094: Copia de Copia de engrane2^Copia de 4to-eje - copia_CAD-BeDelta
+    100096: Copia de Copia de Pieza1^Copia de gripper_Copia de 1_Copia de 4to-eje
+      - copia_CAD-BeDelta
+    100098: Copia de Copia de Pieza3^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100100: Copia de Copia de Pieza3^Copia de 4to-eje - copia_CAD-BeDelta
+    100102: Copia de Copia de ser-horm^Copia de 4to-eje - copia_CAD-BeDelta
+    100104: Copia de Copia de servo-sin-sujecion^CAD-BeDelta
+    100106: Copia de Copia de trianguloMovil^Copia de 4to-eje - copia_CAD-BeDelta
+    100108: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    100110: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      1
+    100112: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      2
+    100114: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta
+    100116: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 1
+    100118: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 2
+    100120: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 3
+    100122: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 4
+    100124: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 5
+    100126: Copia de cuerpo^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100128: Copia de cuerpo^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    100130: Copia de cuerpo^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    100132: Copia de custon spur gear_am^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100134: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    100136: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    100138: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    100140: Copia de engrane35-50-complemento^Copia de gripper_Copia de 1_Copia de
+      4to-eje - copia_CAD-BeDelta
+    100142: Copia de engrane35-50^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100144: Copia de gripper^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100146: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta
+    100148: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 1
+    100150: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 10
+    100152: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 11
+    100154: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 2
+    100156: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 3
+    100158: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 4
+    100160: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 5
+    100162: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 6
+    100164: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 7
+    100166: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 8
+    100168: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 9
+    100170: Copia de mr623zz-cen^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    100172: Copia de mr623zz-cen^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    100174: Copia de mr623zz-ext^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    100176: Copia de mr623zz-int^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    100178: Copia de pieza soldada^CAD-BeDelta
+    100180: Copia de Pieza3^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    100182: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta
+    100184: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 1
+    100186: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 2
+    100188: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 3
+    100190: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 4
+    100192: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 5
+    100194: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    100196: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    100198: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    100200: Copia de tapa_caja_inferior^CAD-BeDelta
+    100202: Cortar-Extruir1
+    100204: Cortar-Extruir1 1
+    100206: Cortar-Extruir1 10
+    100208: Cortar-Extruir1 11
+    100210: Cortar-Extruir1 12
+    100212: Cortar-Extruir1 13
+    100214: Cortar-Extruir1 14
+    100216: Cortar-Extruir1 15
+    100218: Cortar-Extruir1 16
+    100220: Cortar-Extruir1 2
+    100222: Cortar-Extruir1 3
+    100224: Cortar-Extruir1 4
+    100226: Cortar-Extruir1 5
+    100228: Cortar-Extruir1 6
+    100230: Cortar-Extruir1 7
+    100232: Cortar-Extruir1 8
+    100234: Cortar-Extruir1 9
+    100236: Cortar-Extruir1[1]
+    100238: Cortar-Extruir1[1] 1
+    100240: Cortar-Extruir1[2]
+    100242: Cortar-Extruir1[2] 1
+    100244: Cortar-Extruir2
+    100246: Cortar-Extruir2 1
+    100248: Cortar-Extruir2 2
+    100250: Cortar-Extruir2 3
+    100252: Cortar-Extruir2 4
+    100254: Cortar-Extruir2 5
+    100256: Cortar-Extruir3
+    100258: Cortar-Extruir3 1
+    100260: Cortar-Extruir3 10
+    100262: Cortar-Extruir3 11
+    100264: Cortar-Extruir3 12
+    100266: Cortar-Extruir3 13
+    100268: Cortar-Extruir3 14
+    100270: Cortar-Extruir3 2
+    100272: Cortar-Extruir3 3
+    100274: Cortar-Extruir3 4
+    100276: Cortar-Extruir3 5
+    100278: Cortar-Extruir3 6
+    100280: Cortar-Extruir3 7
+    100282: Cortar-Extruir3 8
+    100284: Cortar-Extruir3 9
+    100286: Cortar-Extruir4
+    100288: Cortar-Extruir5
+    100290: Cortar-Extruir5 1
+    100292: Cortar-Extruir5 2
+    100294: Cortar-Extruir6
+    100296: Cut-Extrude1
+    100298: Cut-Extrude1 1
+    100300: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta
+    100302: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 1
+    100304: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 2
+    100306: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 3
+    100308: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 4
+    100310: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 5
+    100312: //RootNode
+    100314: MatrizC1
+    100316: Pieza1^Copia de 4to-eje - copia_CAD-BeDelta
+    100318: Pieza2^CAD-BeDelta
+    100320: Pieza2^CAD-BeDelta 1
+    100322: Pieza3^Copia de 4to-eje - copia_CAD-BeDelta
+    100324: Recortar/Extender1[1]
+    100326: Recortar/Extender1[2]
+    100328: Recortar/Extender2[1]
+    100330: Recortar/Extender2[2]
+    100332: Recortar/Extender4[1]
+    100334: Recortar/Extender4[2]
+    100336: Recortar/Extender6[1]
+    100338: Recortar/Extender6[2]
+    100340: Redondeo1
+    100342: Redondeo1 1
+    100344: Redondeo1 2
+    100346: Redondeo1 3
+    100348: Redondeo1 4
+    100350: Redondeo1 5
+    100352: Redondeo1 6
+    100354: Redondeo10
+    100356: Redondeo10 1
+    100358: Redondeo10 2
+    100360: Redondeo2
+    100362: Redondeo2 1
+    100364: Redondeo2 2
+    100366: Saliente-Extruir1
+    100368: Saliente-Extruir1 1
+    100370: Saliente-Extruir1 2
+    100372: Saliente-Extruir1 3
+    100374: Saliente-Extruir1 4
+    100376: Saliente-Extruir1 5
+    100378: Saliente-Extruir1 6
+    100380: Saliente-Extruir1 7
+    100382: Saliente-Extruir10
+    100384: Saliente-Extruir11
+    100386: Saliente-Extruir1[1]
+    100388: Saliente-Extruir2
+    100390: Saliente-Extruir2 1
+    100392: Saliente-Extruir3
+    100394: Saliente-Extruir4[1]
+    100396: Saliente-Extruir4[2]
+    100398: Saliente-Extruir7
+    100400: Saliente-Extruir7 1
+    400000: Al tube (square) 1 SQ X.028 WALL(2)[10]
+    400002: Al tube (square) 1 SQ X.028 WALL(2)[11]
+    400004: Al tube (square) 1 SQ X.028 WALL(2)[12]
+    400006: Al tube (square) 1 SQ X.028 WALL(2)[1]
+    400008: Al tube (square) 1 SQ X.028 WALL(2)[4]
+    400010: Al tube (square) 1 SQ X.028 WALL(2)[5]
+    400012: Al tube (square) 1 SQ X.028 WALL(2)[6]
+    400014: Al tube (square) 1 SQ X.028 WALL(2)[9]
+    400016: Bore
+    400018: CAD-BeDelta 1
+    400020: Chamfer1
+    400022: Chamfer1 1
+    400024: Copia (2) de Copia de servo-sin-sujecion^CAD-BeDelta
+    400026: Copia (3) de Copia de servo-sin-sujecion^CAD-BeDelta
+    400028: Copia de -MR623ZZ-assem^Copia de 4to-eje - copia_CAD-BeDelta
+    400030: Copia de 1^Copia de 4to-eje - copia_CAD-BeDelta
+    400032: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    400034: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    400036: Copia de 1^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    400038: Copia de 1_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400040: Copia de 2^CAD-BeDelta
+    400042: Copia de 4^CAD-BeDelta
+    400044: Copia de 4^CAD-BeDelta 1
+    400046: Copia de 4_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400048: Copia de 4_griper^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    400050: Copia de 4to-eje - copia^CAD-BeDelta
+    400052: Copia de 5^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400054: Copia de 5^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    400056: Copia de acople1^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400058: Copia de acople1^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400060: Copia de acople1^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    400062: Copia de acople2^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400064: Copia de acople2^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400066: Copia de acople2^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    400068: Copia de base_inferior^CAD-BeDelta
+    400070: Copia de base_superior^CAD-BeDelta
+    400072: Copia de Bincha^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400074: Copia de Bincha^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400076: Copia de Bincha^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    400078: Copia de caja_inferior^CAD-BeDelta
+    400080: Copia de Copia de BrazoSuperior^CAD-BeDelta
+    400082: Copia de Copia de BrazoSuperior^CAD-BeDelta 1
+    400084: Copia de Copia de BrazoSuperior^CAD-BeDelta 2
+    400086: Copia de Copia de Copia de Copia de Pieza3^Copia de gripper_Copia de 1_Copia
+      de 4to-eje - copia_CAD-BeDelta
+    400088: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    400090: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      1
+    400092: Copia de Copia de Copia de ENSABLEROTULA^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      2
+    400094: Copia de Copia de engrane2^Copia de 4to-eje - copia_CAD-BeDelta
+    400096: Copia de Copia de Pieza1^Copia de gripper_Copia de 1_Copia de 4to-eje
+      - copia_CAD-BeDelta
+    400098: Copia de Copia de Pieza3^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400100: Copia de Copia de Pieza3^Copia de 4to-eje - copia_CAD-BeDelta
+    400102: Copia de Copia de ser-horm^Copia de 4to-eje - copia_CAD-BeDelta
+    400104: Copia de Copia de servo-sin-sujecion^CAD-BeDelta
+    400106: Copia de Copia de trianguloMovil^Copia de 4to-eje - copia_CAD-BeDelta
+    400108: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    400110: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      1
+    400112: Copia de Copia de tuboAl -Superior^Copia de Copia de BrazoSuperior_CAD-BeDelta
+      2
+    400114: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta
+    400116: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 1
+    400118: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 2
+    400120: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 3
+    400122: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 4
+    400124: Copia de Copia de tuboAl^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 5
+    400126: Copia de cuerpo^Copia (2) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400128: Copia de cuerpo^Copia (3) de Copia de servo-sin-sujecion_CAD-BeDelta
+    400130: Copia de cuerpo^Copia de Copia de servo-sin-sujecion_CAD-BeDelta
+    400132: Copia de custon spur gear_am^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400134: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    400136: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    400138: Copia de deltaaux^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    400140: Copia de engrane35-50-complemento^Copia de gripper_Copia de 1_Copia de
+      4to-eje - copia_CAD-BeDelta
+    400142: Copia de engrane35-50^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400144: Copia de gripper^Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400146: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta
+    400148: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 1
+    400150: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 10
+    400152: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 11
+    400154: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 2
+    400156: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 3
+    400158: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 4
+    400160: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 5
+    400162: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 6
+    400164: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 7
+    400166: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 8
+    400168: Copia de jawdelta2^Ensamblaje5_Copia de Copia de Copia de ENSABLEROTULA_Copia
+      de Copia de BrazoSuperior_CAD-BeDelta 9
+    400170: Copia de mr623zz-cen^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    400172: Copia de mr623zz-cen^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+      1
+    400174: Copia de mr623zz-ext^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    400176: Copia de mr623zz-int^Copia de -MR623ZZ-assem_Copia de 4to-eje - copia_CAD-BeDelta
+    400178: Copia de pieza soldada^CAD-BeDelta
+    400180: Copia de Pieza3^Copia de gripper_Copia de 1_Copia de 4to-eje - copia_CAD-BeDelta
+    400182: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta
+    400184: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 1
+    400186: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 2
+    400188: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 3
+    400190: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 4
+    400192: Copia de rotula1^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia
+      de BrazoSuperior_CAD-BeDelta 5
+    400194: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta
+    400196: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta 1
+    400198: Copia de soporteParatubo^Copia de Copia de BrazoSuperior_CAD-BeDelta 2
+    400200: Copia de tapa_caja_inferior^CAD-BeDelta
+    400202: Cortar-Extruir1
+    400204: Cortar-Extruir1 1
+    400206: Cortar-Extruir1 10
+    400208: Cortar-Extruir1 11
+    400210: Cortar-Extruir1 12
+    400212: Cortar-Extruir1 13
+    400214: Cortar-Extruir1 14
+    400216: Cortar-Extruir1 15
+    400218: Cortar-Extruir1 16
+    400220: Cortar-Extruir1 2
+    400222: Cortar-Extruir1 3
+    400224: Cortar-Extruir1 4
+    400226: Cortar-Extruir1 5
+    400228: Cortar-Extruir1 6
+    400230: Cortar-Extruir1 7
+    400232: Cortar-Extruir1 8
+    400234: Cortar-Extruir1 9
+    400236: Cortar-Extruir1[1]
+    400238: Cortar-Extruir1[1] 1
+    400240: Cortar-Extruir1[2]
+    400242: Cortar-Extruir1[2] 1
+    400244: Cortar-Extruir2
+    400246: Cortar-Extruir2 1
+    400248: Cortar-Extruir2 2
+    400250: Cortar-Extruir2 3
+    400252: Cortar-Extruir2 4
+    400254: Cortar-Extruir2 5
+    400256: Cortar-Extruir3
+    400258: Cortar-Extruir3 1
+    400260: Cortar-Extruir3 10
+    400262: Cortar-Extruir3 11
+    400264: Cortar-Extruir3 12
+    400266: Cortar-Extruir3 13
+    400268: Cortar-Extruir3 14
+    400270: Cortar-Extruir3 2
+    400272: Cortar-Extruir3 3
+    400274: Cortar-Extruir3 4
+    400276: Cortar-Extruir3 5
+    400278: Cortar-Extruir3 6
+    400280: Cortar-Extruir3 7
+    400282: Cortar-Extruir3 8
+    400284: Cortar-Extruir3 9
+    400286: Cortar-Extruir4
+    400288: Cortar-Extruir5
+    400290: Cortar-Extruir5 1
+    400292: Cortar-Extruir5 2
+    400294: Cortar-Extruir6
+    400296: Cut-Extrude1
+    400298: Cut-Extrude1 1
+    400300: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta
+    400302: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 1
+    400304: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 2
+    400306: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 3
+    400308: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 4
+    400310: Ensamblaje5^Copia de Copia de Copia de ENSABLEROTULA_Copia de Copia de
+      BrazoSuperior_CAD-BeDelta 5
+    400312: //RootNode
+    400314: MatrizC1
+    400316: Pieza1^Copia de 4to-eje - copia_CAD-BeDelta
+    400318: Pieza2^CAD-BeDelta
+    400320: Pieza2^CAD-BeDelta 1
+    400322: Pieza3^Copia de 4to-eje - copia_CAD-BeDelta
+    400324: Recortar/Extender1[1]
+    400326: Recortar/Extender1[2]
+    400328: Recortar/Extender2[1]
+    400330: Recortar/Extender2[2]
+    400332: Recortar/Extender4[1]
+    400334: Recortar/Extender4[2]
+    400336: Recortar/Extender6[1]
+    400338: Recortar/Extender6[2]
+    400340: Redondeo1
+    400342: Redondeo1 1
+    400344: Redondeo1 2
+    400346: Redondeo1 3
+    400348: Redondeo1 4
+    400350: Redondeo1 5
+    400352: Redondeo1 6
+    400354: Redondeo10
+    400356: Redondeo10 1
+    400358: Redondeo10 2
+    400360: Redondeo2
+    400362: Redondeo2 1
+    400364: Redondeo2 2
+    400366: Saliente-Extruir1
+    400368: Saliente-Extruir1 1
+    400370: Saliente-Extruir1 2
+    400372: Saliente-Extruir1 3
+    400374: Saliente-Extruir1 4
+    400376: Saliente-Extruir1 5
+    400378: Saliente-Extruir1 6
+    400380: Saliente-Extruir1 7
+    400382: Saliente-Extruir10
+    400384: Saliente-Extruir11
+    400386: Saliente-Extruir1[1]
+    400388: Saliente-Extruir2
+    400390: Saliente-Extruir2 1
+    400392: Saliente-Extruir3
+    400394: Saliente-Extruir4[1]
+    400396: Saliente-Extruir4[2]
+    400398: Saliente-Extruir7
+    400400: Saliente-Extruir7 1
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: 'Material #28'
+    2100008: 'Material #29'
+    2100010: 'Material #30'
+    2100012: 'Material #31'
+    2100014: 'Material #32'
+    2100016: 'Material #33'
+    2100018: 'Material #34'
+    2100020: 'Material #35'
+    2100022: 'Material #36'
+    2100024: 'Material #37'
+    2100026: 'Material #38'
+    2100028: 'Material #39'
+    2300000: Al tube (square) 1 SQ X.028 WALL(2)[10]
+    2300002: Al tube (square) 1 SQ X.028 WALL(2)[11]
+    2300004: Al tube (square) 1 SQ X.028 WALL(2)[12]
+    2300006: Al tube (square) 1 SQ X.028 WALL(2)[1]
+    2300008: Al tube (square) 1 SQ X.028 WALL(2)[4]
+    2300010: Al tube (square) 1 SQ X.028 WALL(2)[5]
+    2300012: Al tube (square) 1 SQ X.028 WALL(2)[6]
+    2300014: Al tube (square) 1 SQ X.028 WALL(2)[9]
+    2300016: Bore
+    2300018: Chamfer1
+    2300020: Chamfer1 1
+    2300022: Cortar-Extruir1
+    2300024: Cortar-Extruir1 1
+    2300026: Cortar-Extruir1 10
+    2300028: Cortar-Extruir1 11
+    2300030: Cortar-Extruir1 12
+    2300032: Cortar-Extruir1 13
+    2300034: Cortar-Extruir1 14
+    2300036: Cortar-Extruir1 15
+    2300038: Cortar-Extruir1 16
+    2300040: Cortar-Extruir1 2
+    2300042: Cortar-Extruir1 3
+    2300044: Cortar-Extruir1 4
+    2300046: Cortar-Extruir1 5
+    2300048: Cortar-Extruir1 6
+    2300050: Cortar-Extruir1 7
+    2300052: Cortar-Extruir1 8
+    2300054: Cortar-Extruir1 9
+    2300056: Cortar-Extruir1[1]
+    2300058: Cortar-Extruir1[1] 1
+    2300060: Cortar-Extruir1[2]
+    2300062: Cortar-Extruir1[2] 1
+    2300064: Cortar-Extruir2
+    2300066: Cortar-Extruir2 1
+    2300068: Cortar-Extruir2 2
+    2300070: Cortar-Extruir2 3
+    2300072: Cortar-Extruir2 4
+    2300074: Cortar-Extruir2 5
+    2300076: Cortar-Extruir3
+    2300078: Cortar-Extruir3 1
+    2300080: Cortar-Extruir3 10
+    2300082: Cortar-Extruir3 11
+    2300084: Cortar-Extruir3 12
+    2300086: Cortar-Extruir3 13
+    2300088: Cortar-Extruir3 14
+    2300090: Cortar-Extruir3 2
+    2300092: Cortar-Extruir3 3
+    2300094: Cortar-Extruir3 4
+    2300096: Cortar-Extruir3 5
+    2300098: Cortar-Extruir3 6
+    2300100: Cortar-Extruir3 7
+    2300102: Cortar-Extruir3 8
+    2300104: Cortar-Extruir3 9
+    2300106: Cortar-Extruir4
+    2300108: Cortar-Extruir5
+    2300110: Cortar-Extruir5 1
+    2300112: Cortar-Extruir5 2
+    2300114: Cortar-Extruir6
+    2300116: Cut-Extrude1
+    2300118: Cut-Extrude1 1
+    2300120: MatrizC1
+    2300122: Recortar/Extender1[1]
+    2300124: Recortar/Extender1[2]
+    2300126: Recortar/Extender2[1]
+    2300128: Recortar/Extender2[2]
+    2300130: Recortar/Extender4[1]
+    2300132: Recortar/Extender4[2]
+    2300134: Recortar/Extender6[1]
+    2300136: Recortar/Extender6[2]
+    2300138: Redondeo1
+    2300140: Redondeo1 1
+    2300142: Redondeo1 2
+    2300144: Redondeo1 3
+    2300146: Redondeo1 4
+    2300148: Redondeo1 5
+    2300150: Redondeo1 6
+    2300152: Redondeo10
+    2300154: Redondeo10 1
+    2300156: Redondeo10 2
+    2300158: Redondeo2
+    2300160: Redondeo2 1
+    2300162: Redondeo2 2
+    2300164: Saliente-Extruir1
+    2300166: Saliente-Extruir1 1
+    2300168: Saliente-Extruir1 2
+    2300170: Saliente-Extruir1 3
+    2300172: Saliente-Extruir1 4
+    2300174: Saliente-Extruir1 5
+    2300176: Saliente-Extruir1 6
+    2300178: Saliente-Extruir1 7
+    2300180: Saliente-Extruir10
+    2300182: Saliente-Extruir11
+    2300184: Saliente-Extruir1[1]
+    2300186: Saliente-Extruir2
+    2300188: Saliente-Extruir2 1
+    2300190: Saliente-Extruir3
+    2300192: Saliente-Extruir4[1]
+    2300194: Saliente-Extruir4[2]
+    2300196: Saliente-Extruir7
+    2300198: Saliente-Extruir7 1
+    3300000: Al tube (square) 1 SQ X.028 WALL(2)[10]
+    3300002: Al tube (square) 1 SQ X.028 WALL(2)[11]
+    3300004: Al tube (square) 1 SQ X.028 WALL(2)[12]
+    3300006: Al tube (square) 1 SQ X.028 WALL(2)[1]
+    3300008: Al tube (square) 1 SQ X.028 WALL(2)[4]
+    3300010: Al tube (square) 1 SQ X.028 WALL(2)[5]
+    3300012: Al tube (square) 1 SQ X.028 WALL(2)[6]
+    3300014: Al tube (square) 1 SQ X.028 WALL(2)[9]
+    3300016: Bore
+    3300018: Chamfer1
+    3300020: Chamfer1 1
+    3300022: Cortar-Extruir1
+    3300024: Cortar-Extruir1 1
+    3300026: Cortar-Extruir1 10
+    3300028: Cortar-Extruir1 11
+    3300030: Cortar-Extruir1 12
+    3300032: Cortar-Extruir1 13
+    3300034: Cortar-Extruir1 14
+    3300036: Cortar-Extruir1 15
+    3300038: Cortar-Extruir1 16
+    3300040: Cortar-Extruir1 2
+    3300042: Cortar-Extruir1 3
+    3300044: Cortar-Extruir1 4
+    3300046: Cortar-Extruir1 5
+    3300048: Cortar-Extruir1 6
+    3300050: Cortar-Extruir1 7
+    3300052: Cortar-Extruir1 8
+    3300054: Cortar-Extruir1 9
+    3300056: Cortar-Extruir1[1]
+    3300058: Cortar-Extruir1[1] 1
+    3300060: Cortar-Extruir1[2]
+    3300062: Cortar-Extruir1[2] 1
+    3300064: Cortar-Extruir2
+    3300066: Cortar-Extruir2 1
+    3300068: Cortar-Extruir2 2
+    3300070: Cortar-Extruir2 3
+    3300072: Cortar-Extruir2 4
+    3300074: Cortar-Extruir2 5
+    3300076: Cortar-Extruir3
+    3300078: Cortar-Extruir3 1
+    3300080: Cortar-Extruir3 10
+    3300082: Cortar-Extruir3 11
+    3300084: Cortar-Extruir3 12
+    3300086: Cortar-Extruir3 13
+    3300088: Cortar-Extruir3 14
+    3300090: Cortar-Extruir3 2
+    3300092: Cortar-Extruir3 3
+    3300094: Cortar-Extruir3 4
+    3300096: Cortar-Extruir3 5
+    3300098: Cortar-Extruir3 6
+    3300100: Cortar-Extruir3 7
+    3300102: Cortar-Extruir3 8
+    3300104: Cortar-Extruir3 9
+    3300106: Cortar-Extruir4
+    3300108: Cortar-Extruir5
+    3300110: Cortar-Extruir5 1
+    3300112: Cortar-Extruir5 2
+    3300114: Cortar-Extruir6
+    3300116: Cut-Extrude1
+    3300118: Cut-Extrude1 1
+    3300120: MatrizC1
+    3300122: Recortar/Extender1[1]
+    3300124: Recortar/Extender1[2]
+    3300126: Recortar/Extender2[1]
+    3300128: Recortar/Extender2[2]
+    3300130: Recortar/Extender4[1]
+    3300132: Recortar/Extender4[2]
+    3300134: Recortar/Extender6[1]
+    3300136: Recortar/Extender6[2]
+    3300138: Redondeo1
+    3300140: Redondeo1 1
+    3300142: Redondeo1 2
+    3300144: Redondeo1 3
+    3300146: Redondeo1 4
+    3300148: Redondeo1 5
+    3300150: Redondeo1 6
+    3300152: Redondeo10
+    3300154: Redondeo10 1
+    3300156: Redondeo10 2
+    3300158: Redondeo2
+    3300160: Redondeo2 1
+    3300162: Redondeo2 2
+    3300164: Saliente-Extruir1
+    3300166: Saliente-Extruir1 1
+    3300168: Saliente-Extruir1 2
+    3300170: Saliente-Extruir1 3
+    3300172: Saliente-Extruir1 4
+    3300174: Saliente-Extruir1 5
+    3300176: Saliente-Extruir1 6
+    3300178: Saliente-Extruir1 7
+    3300180: Saliente-Extruir10
+    3300182: Saliente-Extruir11
+    3300184: Saliente-Extruir1[1]
+    3300186: Saliente-Extruir2
+    3300188: Saliente-Extruir2 1
+    3300190: Saliente-Extruir3
+    3300192: Saliente-Extruir4[1]
+    3300194: Saliente-Extruir4[2]
+    3300196: Saliente-Extruir7
+    3300198: Saliente-Extruir7 1
+    4300000: Al tube (square) 1 SQ X.028 WALL(2)[1]
+    4300002: Al tube (square) 1 SQ X.028 WALL(2)[4]
+    4300004: Al tube (square) 1 SQ X.028 WALL(2)[5]
+    4300006: Al tube (square) 1 SQ X.028 WALL(2)[6]
+    4300008: Al tube (square) 1 SQ X.028 WALL(2)[9]
+    4300010: Al tube (square) 1 SQ X.028 WALL(2)[10]
+    4300012: Al tube (square) 1 SQ X.028 WALL(2)[11]
+    4300014: Al tube (square) 1 SQ X.028 WALL(2)[12]
+    4300016: Recortar/Extender1[1]
+    4300018: Recortar/Extender1[2]
+    4300020: Recortar/Extender2[1]
+    4300022: Recortar/Extender2[2]
+    4300024: Recortar/Extender4[1]
+    4300026: Recortar/Extender4[2]
+    4300028: Recortar/Extender6[1]
+    4300030: Recortar/Extender6[2]
+    4300032: Cortar-Extruir1
+    4300034: Cortar-Extruir1
+    4300036: Saliente-Extruir4[1]
+    4300038: Saliente-Extruir4[2]
+    4300040: Saliente-Extruir10
+    4300042: Saliente-Extruir1[1]
+    4300044: Cortar-Extruir1
+    4300046: Cortar-Extruir1
+    4300048: Cortar-Extruir1
+    4300050: Saliente-Extruir11
+    4300052: Cortar-Extruir1
+    4300054: Cortar-Extruir1
+    4300056: Cortar-Extruir2
+    4300058: Redondeo2
+    4300060: Cortar-Extruir1
+    4300062: Cortar-Extruir1
+    4300064: Cortar-Extruir2
+    4300066: Redondeo2
+    4300068: Cortar-Extruir1
+    4300070: Cortar-Extruir1
+    4300072: Cortar-Extruir2
+    4300074: Redondeo2
+    4300076: Cortar-Extruir1[1]
+    4300078: Cortar-Extruir1[2]
+    4300080: Cortar-Extruir1[1]
+    4300082: Cortar-Extruir1[2]
+    4300084: Cortar-Extruir1
+    4300086: Redondeo10
+    4300088: Cortar-Extruir1
+    4300090: Cortar-Extruir3
+    4300092: Saliente-Extruir1
+    4300094: Cortar-Extruir3
+    4300096: Cortar-Extruir3
+    4300098: Saliente-Extruir1
+    4300100: Cortar-Extruir3
+    4300102: Redondeo1
+    4300104: Redondeo1
+    4300106: Cortar-Extruir5
+    4300108: Cortar-Extruir1
+    4300110: Redondeo10
+    4300112: Cortar-Extruir1
+    4300114: Cortar-Extruir3
+    4300116: Saliente-Extruir1
+    4300118: Cortar-Extruir3
+    4300120: Cortar-Extruir3
+    4300122: Saliente-Extruir1
+    4300124: Cortar-Extruir3
+    4300126: Redondeo1
+    4300128: Redondeo1
+    4300130: Cortar-Extruir5
+    4300132: Cortar-Extruir1
+    4300134: Redondeo10
+    4300136: Cortar-Extruir1
+    4300138: Cortar-Extruir3
+    4300140: Saliente-Extruir1
+    4300142: Cortar-Extruir3
+    4300144: Cortar-Extruir3
+    4300146: Saliente-Extruir1
+    4300148: Cortar-Extruir3
+    4300150: Redondeo1
+    4300152: Redondeo1
+    4300154: Cortar-Extruir5
+    4300156: MatrizC1
+    4300158: Cortar-Extruir4
+    4300160: Cut-Extrude1
+    4300162: Chamfer1
+    4300164: Chamfer1
+    4300166: Cut-Extrude1
+    4300168: Cortar-Extruir6
+    4300170: Cortar-Extruir2
+    4300172: Cortar-Extruir2
+    4300174: Saliente-Extruir7
+    4300176: Cortar-Extruir3
+    4300178: Bore
+    4300180: Redondeo1
+    4300182: Saliente-Extruir2
+    4300184: Saliente-Extruir2
+    4300186: Cortar-Extruir3
+    4300188: Cortar-Extruir2
+    4300190: Saliente-Extruir3
+    4300192: Saliente-Extruir1
+    4300194: Saliente-Extruir1
+    4300196: Cortar-Extruir3
+    4300198: Saliente-Extruir7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

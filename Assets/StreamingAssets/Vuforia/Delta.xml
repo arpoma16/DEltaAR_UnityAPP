@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="LogBack026" size="0.260000 0.115203" />
+    <ImageTarget name="LogMesa048" size="0.480000 0.454699" />
+    <ImageTarget name="LogCarrera036" size="0.360000 0.130108" />
+    <ImageTarget name="LogUniversidadR039" size="0.390000 0.130352" />
+    <ImageTarget name="LogRobot035" size="0.350000 0.113706" />
+    <ImageTarget name="LogSupRaspberry" size="0.052000 0.052000" />
+    <ImageTarget name="LogSupArduino" size="0.052000 0.052000" />
+    <ImageTarget name="LogSupUnity" size="0.052000 0.052305" />
+    <ImageTarget name="LogSupRobot" size="0.052000 0.052000" />
+    <ImageTarget name="LogSupAR" size="0.052000 0.052000" />
+    <ImageTarget name="LogSupControl" size="0.052000 0.052000" />
+  </Tracking>
+</QCARConfig>
